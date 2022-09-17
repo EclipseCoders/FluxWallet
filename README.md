@@ -1,4 +1,4 @@
-# Flux Wallet Bundle
+# Flux Wallet
 
 
 ## Client Deployment
